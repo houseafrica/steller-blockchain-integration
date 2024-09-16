@@ -375,4 +375,3 @@ yarn run share    # share project folder with remix ide
 |    🛑    | Function can modify state |
 |    💵    | Function is payable |
 
-# steller-blockchain-integration
